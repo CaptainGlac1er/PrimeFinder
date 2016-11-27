@@ -1,4 +1,4 @@
-﻿namespace FunMath
+﻿namespace PrimeFinder
 {
     partial class Form1
     {

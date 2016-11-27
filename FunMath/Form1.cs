@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FunMath
+namespace PrimeFinder
 {
     public partial class Form1 : Form
     {
